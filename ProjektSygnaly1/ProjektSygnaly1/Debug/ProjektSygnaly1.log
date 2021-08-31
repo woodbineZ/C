@@ -1,0 +1,37 @@
+﻿  main.c
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(19): error C2061: błąd składniowy: identyfikator „punkt”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(21): error C2059: błąd składniowy: „}”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(23): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(23): error C2061: błąd składniowy: identyfikator „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(23): error C2059: błąd składniowy: „;”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(23): error C2059: błąd składniowy: „)”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(24): error C2449: znaleziono "{" w zakresie pliku (brak nagłówka funkcji?)
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(29): error C2059: błąd składniowy: „}”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(55): error C2061: błąd składniowy: identyfikator „filtr”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(55): error C2059: błąd składniowy: „;”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(55): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(55): error C2061: błąd składniowy: identyfikator „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(55): error C2059: błąd składniowy: „)”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(56): error C2449: znaleziono "{" w zakresie pliku (brak nagłówka funkcji?)
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(97): error C2059: błąd składniowy: „}”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(111): error C2061: błąd składniowy: identyfikator „generuj”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(111): error C2059: błąd składniowy: „;”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(111): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(111): error C2061: błąd składniowy: identyfikator „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(111): error C2059: błąd składniowy: „)”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(112): error C2449: znaleziono "{" w zakresie pliku (brak nagłówka funkcji?)
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(152): error C2059: błąd składniowy: „}”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(182): error C2061: błąd składniowy: identyfikator „szumowanie”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(182): error C2059: błąd składniowy: „;”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(182): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(182): error C2061: błąd składniowy: identyfikator „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(182): error C2059: błąd składniowy: „)”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(183): error C2449: znaleziono "{" w zakresie pliku (brak nagłówka funkcji?)
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(204): error C2059: błąd składniowy: „}”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(242): error C2061: błąd składniowy: identyfikator „odczyt”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(242): error C2059: błąd składniowy: „;”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(242): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(242): error C2061: błąd składniowy: identyfikator „tab”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(242): error C2059: błąd składniowy: „)”
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(243): error C2449: znaleziono "{" w zakresie pliku (brak nagłówka funkcji?)
+c:\users\jakub\documents\studia\programowanie w c\projekty\projektsygnaly1\projektsygnaly1\main.c(274): error C2059: błąd składniowy: „}”
